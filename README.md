@@ -60,4 +60,7 @@ npm run service myService.ts
 ##### Creating new pipes: #####
 ```
 npm run pipe myPipe.ts
-```# Angular2-Portfolio
+# Angular2-Portfolio
+```
+### Reference ###
+```https://github.com/auth0-blog/angular2-authentication-sample.git```
